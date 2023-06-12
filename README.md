@@ -1,2 +1,2 @@
 # **Simple-Linear-Regression-Model**
-## This Project so led by **https://github.com/mellithyy** 
+## This Project was led by **https://github.com/mellithyy** 
